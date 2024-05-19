@@ -15,7 +15,7 @@ It us a portfolio for showcasing my skills, projects, qualifications, contact, a
 Clone the program to your local machine.
 
 #To run
-Github https://codepen.io/pen/
+https://codepen.io/pen/
 
 
 
